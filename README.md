@@ -4,7 +4,7 @@
 - [Tableau de bord des ventes](https://github.com/Cidavieira/Portfolio-Power-Bi/blob/main/Rapport%20Magasin.pbix)
 
 ### Tableau de bord des ventes
-![ventes](https://github.com/Cidavieira/Portfolio-Power-Bi/blob/main/EduWHh7-Imgur.gif)
+![ventes]()
 
 Accédez au tableau de bord complet [Dans ce lien](https://app.powerbi.com/view?r=eyJrIjoiODZjY2FmZDctYzVkOS00YjhmLWJlYmItNTE3MTM3NjE0M2JjIiwidCI6IjRiN2IwYjZhLWIzNDAtNDc5MS1iNTg5LTA1NDVkZDIwYWQzNiJ9)
 
