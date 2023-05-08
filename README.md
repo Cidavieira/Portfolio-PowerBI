@@ -1,7 +1,7 @@
 # Portfolio-PowerBi 
  Tableaux de bord créés à l'aide de l'outil Power BI.
  
-- [Tableau de bord des ventes](https://github.com/Cidavieira/Portfolio-Power-Bi/blob/main/Rapport%20Magasin.pbix)
+- [Tableau de bord des ventes](https://github.com/Cidavieira/Portfolio-PowerBI/tree/main/Tableau%20de%20bord%20des%20ventes.pbix)
 
 ### Tableau de bord des ventes
 
