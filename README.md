@@ -30,11 +30,11 @@ La colonne "Moins" a été créée à partir des colonnes "Date"
 
 
 
-### Dashboard de Vendas
+### Tableau de bord des ventes 2
 
-![ventes]([https://i.imgur.com/19mRZpY.gif](https://github.com/Cidavieira/Portfolio-PowerBI/blob/main/Ventes%202/Video_230509075926.gif))
+![ventes](https://github.com/Cidavieira/Portfolio-PowerBI/blob/main/Tableau%20de%20bord%20des%20ventes%202/Video_230509075926.gif)
 
-Accédez au tableau de bord complet [Dans ce lien]("https://app.powerbi.com/view?r=eyJrIjoiZTFhNWQzNmYtODQxZC00MjljLWI4N2UtZWM4MGU4YjdlNGM5IiwidCI6IjRiN2IwYjZhLWIzNDAtNDc5MS1iNTg5LTA1NDVkZDIwYWQzNiJ9")
+Accédez au tableau de bord complet [Dans ce lien](https://app.powerbi.com/view?r=eyJrIjoiZTFhNWQzNmYtODQxZC00MjljLWI4N2UtZWM4MGU4YjdlNGM5IiwidCI6IjRiN2IwYjZhLWIzNDAtNDc5MS1iNTg5LTA1NDVkZDIwYWQzNiJ9)
 
 #### Structure de la base de données
 
