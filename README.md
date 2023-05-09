@@ -1,8 +1,38 @@
 # Portfolio-PowerBi 
  Tableaux de bord créés à l'aide de l'outil Power BI.
- 
+- [Tableau de bord des Ressources Humanes](https://github.com/Cidavieira/Portfolio-PowerBI/blob/main/Tableau%20de%20bord%20des%20RHumanes/RapportRessourcesHumanes.pbix)
 - [Tableau de bord des ventes](https://github.com/Cidavieira/Portfolio-PowerBI/blob/main/Tableau%20de%20bord%20des%20ventes/Rapport%20Magasin.pbix)
 - [Tableau de bord des ventes 2](https://github.com/Cidavieira/Portfolio-PowerBI/blob/main/Ventes%202/Rapport%20Ventes.pbix)
+
+### Tableau de bord des Ressources Humanes
+![ressourcesh](https://github.com/Cidavieira/Portfolio-PowerBI/blob/main/Tableau%20de%20bord%20des%20RHumanes/Video_230509161031.gif)
+
+Accédez au tableau de bord complet [Dans ce lien](https://app.powerbi.com/view?r=eyJrIjoiMzZhNDAyZjQtM2NjYS00ZjI3LWJjNmEtYTE3ZmQ1NmNmOGQxIiwidCI6IjRiN2IwYjZhLWIzNDAtNDc5MS1iNTg5LTA1NDVkZDIwYWQzNiJ9)
+
+#### Structure de la base de données
+
+Fichier Excel contenant initialement les colonnes suivantes
+- ID RH
+- Nom
+- état civil
+- Genre
+- Date de Naissance
+- Date d'embauche
+- Date de départ
+- Salaire
+- Poste
+- Domaine de travail
+- Évaluation des employés
+- Ville
+
+Expressions DAX créées à partir des données :
+- Employés Actifs
+- Employés Ayant Quitté Entreprise
+- Nouvelles embauches
+- Percent Turnover
+- Salaire Employés Actifs
+
+**Quantité de données: 234** 
 
 ### Tableau de bord des ventes
 
