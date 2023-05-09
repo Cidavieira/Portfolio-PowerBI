@@ -2,7 +2,7 @@
  Tableaux de bord créés à l'aide de l'outil Power BI.
  
 - [Tableau de bord des ventes](https://github.com/Cidavieira/Portfolio-PowerBI/blob/main/Tableau%20de%20bord%20des%20ventes/Rapport%20Magasin.pbix)
-- [Tableau de bord des ventes 2](https://github.com/Cidavieira/Portfolio-PowerBI/blob/main/Tableau%20de%20bord%20des%20ventes/Rapport%20Magasin.pbix)
+- [Tableau de bord des ventes 2](https://github.com/Cidavieira/Portfolio-PowerBI/blob/main/Ventes%202/Rapport%20Ventes.pbix)
 
 ### Tableau de bord des ventes
 
@@ -32,11 +32,11 @@ La colonne "Moins" a été créée à partir des colonnes "Date"
 
 ### Dashboard de Vendas
 
-![ventes](https://i.imgur.com/19mRZpY.gif)
+![ventes]([https://i.imgur.com/19mRZpY.gif](https://github.com/Cidavieira/Portfolio-PowerBI/blob/main/Ventes%202/Video_230509075926.gif))
 
 Accédez au tableau de bord complet [Dans ce lien]("https://app.powerbi.com/view?r=eyJrIjoiZTFhNWQzNmYtODQxZC00MjljLWI4N2UtZWM4MGU4YjdlNGM5IiwidCI6IjRiN2IwYjZhLWIzNDAtNDc5MS1iNTg5LTA1NDVkZDIwYWQzNiJ9")
 
-####Structure de la base de données
+#### Structure de la base de données
 
 Fichier Excel contenant initialement les colonnes suivantes
 - Catégorie
@@ -48,12 +48,12 @@ Fichier Excel contenant initialement les colonnes suivantes
 - localité
 
 
-Colonnes créées à partir des données :
+Colonnes créées à partir des données:
 - pays 
 - Continente
 
 Les colonnes "pays" et "continent" ont été créées à partir de la colonne "localité".
 
-**Quantité de données: ** 
+**Quantité de données: 203.883 ** 
 
 Avez-vous des suggestions d'amélioration ou avez-vous trouvé un bogue ? Veuillez laisser votre problème (issue) ici.😉
