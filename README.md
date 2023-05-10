@@ -36,7 +36,7 @@ Expressions DAX créées à partir des données :
 **Quantité de données: 234** 
 
 ### Tableau de bord de production
-![ressourcesh](https://github.com/Cidavieira/Portfolio-PowerBI/blob/main/Video_230509214946.gif)
+![ressourcesh](https://github.com/Cidavieira/Portfolio-PowerBI/blob/main/Tableau%20de%20bord%20des%20Production/Video_230509214946.gif)
 
 Accédez au tableau de bord complet [Dans ce lien](https://app.powerbi.com/view?r=eyJrIjoiYjA0ZGJhYjktNmYzZC00ODJkLTkxNmQtZDg0MTRmZWE4M2JiIiwidCI6IjRiN2IwYjZhLWIzNDAtNDc5MS1iNTg5LTA1NDVkZDIwYWQzNiJ9)
 
