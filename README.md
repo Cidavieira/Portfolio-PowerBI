@@ -36,7 +36,7 @@ Expressions DAX créées à partir des données :
 **Quantité de données: 234** 
 
 ### Tableau de bord de production
-![ressourcesh]()
+![ressourcesh](https://github.com/Cidavieira/Portfolio-PowerBI/blob/main/Video_230509214946.gif)
 
 Accédez au tableau de bord complet [Dans ce lien](https://app.powerbi.com/view?r=eyJrIjoiYjA0ZGJhYjktNmYzZC00ODJkLTkxNmQtZDg0MTRmZWE4M2JiIiwidCI6IjRiN2IwYjZhLWIzNDAtNDc5MS1iNTg5LTA1NDVkZDIwYWQzNiJ9)
 
@@ -62,9 +62,9 @@ Expressions DAX créées à partir des données :
 - Pourcentage de disponibilité
 - Pourcentage de qualité
 - Quant Produite
-- -Quant Rejetée 
+- Quant Rejetée 
 
-**Quantité de données: 234** 
+**Quantité de données: 31617** 
 
 ### Tableau de bord des ventes
 
