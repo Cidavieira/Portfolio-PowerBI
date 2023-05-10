@@ -1,6 +1,7 @@
 # Portfolio-PowerBi 
  Tableaux de bord créés à l'aide de l'outil Power BI.
 - [Tableau de bord des Ressources Humanes](https://github.com/Cidavieira/Portfolio-PowerBI/blob/main/Tableau%20de%20bord%20des%20RHumanes/RapportRessourcesHumanes.pbix)
+- [Tableau de bord de production](https://github.com/Cidavieira/Portfolio-PowerBI/blob/main/Tableau%20de%20bord%20des%20Production/RapportProduction.pbix)
 - [Tableau de bord des ventes](https://github.com/Cidavieira/Portfolio-PowerBI/blob/main/Tableau%20de%20bord%20des%20ventes/Rapport%20Magasin.pbix)
 - [Tableau de bord des ventes 2](https://github.com/Cidavieira/Portfolio-PowerBI/blob/main/Ventes%202/Rapport%20Ventes.pbix)
 
@@ -31,6 +32,37 @@ Expressions DAX créées à partir des données :
 - Nouvelles embauches
 - Percent Turnover
 - Salaire Employés Actifs
+
+**Quantité de données: 234** 
+
+### Tableau de bord de production
+![ressourcesh]()
+
+Accédez au tableau de bord complet [Dans ce lien](https://app.powerbi.com/view?r=eyJrIjoiYjA0ZGJhYjktNmYzZC00ODJkLTkxNmQtZDg0MTRmZWE4M2JiIiwidCI6IjRiN2IwYjZhLWIzNDAtNDc5MS1iNTg5LTA1NDVkZDIwYWQzNiJ9)
+
+#### Structure de la base de données
+
+Fichier Excel contenant initialement les colonnes suivantes
+- Numéro d'Ordre
+- Opérateur
+- Produit
+- Incident
+- Début
+- Heures Début
+- Fin
+- Heures Fin
+- Total des heures
+- Quantité Produite
+- Quantité Rejetée
+
+
+Expressions DAX créées à partir des données :
+- Heures de production
+- Heures d'arrêt
+- Pourcentage de disponibilité
+- Pourcentage de qualité
+- Quant Produite
+- -Quant Rejetée 
 
 **Quantité de données: 234** 
 
