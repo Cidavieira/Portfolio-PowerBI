@@ -6,7 +6,7 @@
 - [Tableau de bord des ventes 2](https://github.com/Cidavieira/Portfolio-PowerBI/blob/main/Ventes%202/Rapport%20Ventes.pbix)
 
 ### Tableau de bord des Ressources Humanes
-![ressourcesh](https://github.com/Cidavieira/Portfolio-PowerBI/blob/main/Tableau%20de%20bord%20des%20RHumanes/Video_230509161031.gif)
+![ressourcesh](https://github.com/Cidavieira/Portfolio-PowerBI/blob/main/Tableau%20de%20bord%20des%20RHumanes/Video_230510145348.gif)
 
 Accédez au tableau de bord complet [Dans ce lien](https://app.powerbi.com/view?r=eyJrIjoiMzZhNDAyZjQtM2NjYS00ZjI3LWJjNmEtYTE3ZmQ1NmNmOGQxIiwidCI6IjRiN2IwYjZhLWIzNDAtNDc5MS1iNTg5LTA1NDVkZDIwYWQzNiJ9)
 
