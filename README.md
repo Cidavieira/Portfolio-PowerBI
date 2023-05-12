@@ -1,7 +1,7 @@
 # Portfolio-PowerBi 
  Tableaux de bord créés à l'aide de l'outil Power BI.
 - [Tableau de bord financier](https://github.com/Cidavieira/Portfolio-PowerBI/blob/main/Tableau%20de%20bord%20financier/Financier.pbix)
-- [Tableau de bord des Ressources Humanes](https://github.com/Cidavieira/Portfolio-PowerBI/blob/main/Tableau%20de%20bord%20des%20RHumanes/RapportRessourcesHumanes.pbix)
+- [Tableau de bord des ressources Humanes](https://github.com/Cidavieira/Portfolio-PowerBI/blob/main/Tableau%20de%20bord%20des%20RHumanes/RapportRessourcesHumanes.pbix)
 - [Tableau de bord de production](https://github.com/Cidavieira/Portfolio-PowerBI/blob/main/Tableau%20de%20bord%20des%20Production/RapportProduction.pbix)
 - [Tableau de bord des ventes](https://github.com/Cidavieira/Portfolio-PowerBI/blob/main/Tableau%20de%20bord%20des%20ventes/Rapport%20Magasin.pbix)
 - [Tableau de bord des ventes 2](https://github.com/Cidavieira/Portfolio-PowerBI/blob/main/Ventes%202/Rapport%20Ventes.pbix)
@@ -42,6 +42,10 @@ Expressions DAX créées à partir des données :
 
 **Quantité de données: 2725**
 
+
+
+### Tableau de bord des Ressources Humanes
+![ressourcesh](https://github.com/Cidavieira/Portfolio-PowerBI/blob/main/Tableau%20de%20bord%20des%20RHumanes/Video_230510203434.gif)
 
 #### Structure de la base de données
 
